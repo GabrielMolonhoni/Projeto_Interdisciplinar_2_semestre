@@ -7,8 +7,12 @@ O trabalho pode ser visto no AWS Lab do Gabriel.
 ### Participantes:
  - Beatriz Andrade Luiz  - CP3016307
  - Gabriel Marques Molonhoni - CP3016129
+
+### Notebook gerado
+ * [Trabalho Interdisciplinar](https://github.com/GabrielMolonhoni/Projeto_Interdisciplinar_2_semestre/blob/main/Interdisciplinar.ipynb)
+ * [Arquivo de treinamento na AWS (python)](https://github.com/GabrielMolonhoni/Projeto_Interdisciplinar_2_semestre/blob/main/train.py)
  
-  ## 1. Introdução
+  ## Introdução
  
  Este trabalho tem o objetivo de cirar um pipeline de um classificador, onde deseja se classificar pacientes com diabetes ou sem diabetes.
  
@@ -27,5 +31,8 @@ O trabalho pode ser visto no AWS Lab do Gabriel.
   * Age: Idade (anos)
   * Outcome: Resultado: 1 se a pessoa tem diabete, 0 em caso negativo
  
- ## 1.1 Arquitetura
+ ## Arquitetura
  ![title](arquitetura_aws.jpg)
+ 
+ ## 2. Resultados
+ O modelo final foi uma SVM com kernel RBF onde obteve acurácia de 80% no dataset de treinamento.
