@@ -1,0 +1,182 @@
+Outcome,Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Pregnancie_Stratified,Age_Stratified,BMI_Stratified
+0,1,157,72,21,168,25.6,0.123,24,No child,Young Adult,Overweight
+1,2,158,90,0,0,31.6,0.805,66,1 child,Old,Obesity
+0,0,101,62,0,0,21.9,0.336,25,No child,Young Adult,Normal
+1,2,108,80,0,0,27.0,0.259,52,1 child,Adult,Overweight
+0,2,92,52,0,0,30.1,0.141,22,1 child,Young Adult,Obesity
+0,2,92,62,28,0,31.6,0.13,24,1 child,Young Adult,Obesity
+0,4,84,90,23,56,39.5,0.159,25,2+ children,Young Adult,Extreme Obesity
+1,1,144,82,46,180,46.1,0.335,46,No child,Adult,Extreme Obesity
+1,1,117,88,24,145,34.5,0.403,40,No child,Young Adult,Obesity
+1,7,103,66,32,0,39.1,0.344,31,2+ children,Young Adult,Extreme Obesity
+0,1,85,66,29,0,26.6,0.351,31,No child,Young Adult,Overweight
+1,9,130,70,0,0,34.2,0.652,45,2+ children,Adult,Obesity
+1,0,128,68,19,180,30.5,1.391,25,No child,Young Adult,Obesity
+0,1,111,94,0,0,32.8,0.265,45,No child,Adult,Obesity
+0,0,102,52,0,0,25.1,0.078,21,No child,Young Adult,Overweight
+1,7,160,54,32,175,30.5,0.588,39,2+ children,Young Adult,Obesity
+1,9,122,56,0,0,33.3,1.114,33,2+ children,Young Adult,Obesity
+1,6,115,60,39,0,33.7,0.245,40,2+ children,Young Adult,Obesity
+0,5,103,108,37,0,39.2,0.305,65,2+ children,Old,Extreme Obesity
+1,9,145,80,46,130,37.9,0.637,40,2+ children,Young Adult,Extreme Obesity
+1,5,166,76,0,0,45.7,0.34,27,2+ children,Young Adult,Extreme Obesity
+0,3,130,64,0,0,23.1,0.314,22,2+ children,Young Adult,Normal
+0,6,92,92,0,0,19.9,0.188,28,2+ children,Young Adult,Normal
+0,0,108,68,20,0,27.3,0.787,32,No child,Young Adult,Overweight
+0,1,79,80,25,37,25.4,0.583,22,No child,Young Adult,Overweight
+0,6,98,58,33,190,34.0,0.43,43,2+ children,Adult,Obesity
+0,3,148,66,25,0,32.5,0.256,22,2+ children,Young Adult,Obesity
+0,0,84,64,22,66,35.8,0.545,21,No child,Young Adult,Extreme Obesity
+0,4,99,72,17,0,25.6,0.294,28,2+ children,Young Adult,Overweight
+1,8,143,66,0,0,34.9,0.129,41,2+ children,Adult,Obesity
+0,2,100,70,52,57,40.5,0.677,25,1 child,Young Adult,Extreme Obesity
+1,1,189,60,23,846,30.1,0.398,59,No child,Adult,Obesity
+0,5,126,78,27,22,29.6,0.439,40,2+ children,Young Adult,Overweight
+0,0,98,82,15,84,25.2,0.299,22,No child,Young Adult,Overweight
+0,2,99,60,17,160,36.6,0.453,21,1 child,Young Adult,Extreme Obesity
+0,5,117,86,30,105,39.1,0.251,42,2+ children,Adult,Extreme Obesity
+0,4,85,58,22,49,27.8,0.306,28,2+ children,Young Adult,Overweight
+1,9,145,88,34,165,30.3,0.771,53,2+ children,Adult,Obesity
+0,10,122,68,0,0,31.2,0.258,41,2+ children,Adult,Obesity
+0,5,132,80,0,0,26.8,0.186,69,2+ children,Old,Overweight
+0,1,124,60,32,0,35.8,0.514,21,No child,Young Adult,Extreme Obesity
+0,3,99,80,11,64,19.3,0.284,30,2+ children,Young Adult,Normal
+0,0,93,60,0,0,35.3,0.263,25,No child,Young Adult,Extreme Obesity
+0,3,90,78,0,0,42.7,0.559,21,2+ children,Young Adult,Extreme Obesity
+0,4,141,74,0,0,27.6,0.244,40,2+ children,Young Adult,Overweight
+1,2,155,74,17,96,26.6,0.433,27,1 child,Young Adult,Overweight
+0,0,152,82,39,272,41.5,0.27,27,No child,Young Adult,Extreme Obesity
+1,8,176,90,34,300,33.7,0.467,58,2+ children,Adult,Obesity
+0,6,137,61,0,0,24.2,0.151,55,2+ children,Adult,Normal
+1,7,147,76,0,0,39.4,0.257,43,2+ children,Adult,Extreme Obesity
+0,1,77,56,30,56,33.3,1.251,24,No child,Young Adult,Obesity
+0,1,84,64,23,115,36.9,0.471,28,No child,Young Adult,Extreme Obesity
+1,1,88,30,42,99,55.0,0.496,26,No child,Young Adult,Extreme Obesity
+0,1,73,50,10,0,23.0,0.248,21,No child,Young Adult,Normal
+0,1,88,78,29,76,32.0,0.365,29,No child,Young Adult,Obesity
+1,0,118,84,47,230,45.8,0.551,31,No child,Young Adult,Extreme Obesity
+1,5,85,74,22,0,29.0,1.224,32,2+ children,Young Adult,Overweight
+0,0,104,64,23,116,27.8,0.454,23,No child,Young Adult,Overweight
+0,12,100,84,33,105,30.0,0.488,46,2+ children,Adult,Overweight
+1,8,196,76,29,280,37.5,0.605,57,2+ children,Adult,Extreme Obesity
+0,0,165,76,43,255,47.9,0.259,26,No child,Young Adult,Extreme Obesity
+1,4,111,72,47,207,37.1,1.39,56,2+ children,Adult,Extreme Obesity
+1,10,125,70,26,115,31.1,0.205,41,2+ children,Adult,Obesity
+1,5,116,74,29,0,32.3,0.66,35,2+ children,Young Adult,Obesity
+0,0,102,86,17,105,29.3,0.695,27,No child,Young Adult,Overweight
+1,8,181,68,36,495,30.1,0.615,60,2+ children,Adult,Obesity
+0,1,95,66,13,38,19.6,0.334,25,No child,Young Adult,Normal
+0,2,108,62,32,56,25.2,0.128,21,1 child,Young Adult,Overweight
+0,1,119,54,13,50,22.3,0.205,24,No child,Young Adult,Normal
+0,4,110,66,0,0,31.9,0.471,29,2+ children,Young Adult,Obesity
+0,1,100,66,15,56,23.6,0.666,26,No child,Young Adult,Normal
+0,0,74,52,10,36,27.8,0.269,22,No child,Young Adult,Overweight
+0,1,193,50,16,375,25.9,0.655,24,No child,Young Adult,Overweight
+1,9,156,86,0,0,24.8,0.23,53,2+ children,Adult,Normal
+1,1,149,68,29,127,29.3,0.349,42,No child,Adult,Overweight
+0,0,111,65,0,0,24.6,0.66,31,No child,Young Adult,Normal
+0,8,118,72,19,0,23.1,1.476,46,2+ children,Adult,Normal
+1,1,115,70,30,96,34.6,0.529,32,No child,Young Adult,Obesity
+0,7,106,92,18,0,22.7,0.235,48,2+ children,Adult,Normal
+0,0,147,85,54,0,42.8,0.375,24,No child,Young Adult,Extreme Obesity
+0,5,110,68,0,0,26.0,0.292,30,2+ children,Young Adult,Overweight
+0,5,109,75,26,0,36.0,0.546,60,2+ children,Adult,Extreme Obesity
+0,2,101,58,17,265,24.2,0.614,23,1 child,Young Adult,Normal
+1,3,163,70,18,105,31.6,0.268,28,2+ children,Young Adult,Obesity
+0,1,116,78,29,180,36.1,0.496,25,No child,Young Adult,Extreme Obesity
+0,2,105,58,40,94,34.9,0.225,25,1 child,Young Adult,Obesity
+0,0,101,64,17,0,21.0,0.252,21,No child,Young Adult,Normal
+1,2,102,86,36,120,45.5,0.127,23,1 child,Young Adult,Extreme Obesity
+0,6,102,90,39,0,35.7,0.674,28,2+ children,Young Adult,Extreme Obesity
+0,6,129,90,7,326,19.6,0.582,60,2+ children,Adult,Normal
+1,10,101,86,37,0,45.6,1.136,38,2+ children,Young Adult,Extreme Obesity
+0,6,154,74,32,193,29.3,0.839,39,2+ children,Young Adult,Overweight
+0,1,89,76,34,37,31.2,0.192,23,No child,Young Adult,Obesity
+0,10,162,84,0,0,27.7,0.182,54,2+ children,Adult,Overweight
+0,6,85,78,0,0,31.2,0.382,42,2+ children,Adult,Obesity
+1,7,106,60,24,0,26.5,0.296,29,2+ children,Young Adult,Overweight
+1,1,147,94,41,0,49.3,0.358,27,No child,Young Adult,Extreme Obesity
+0,2,98,60,17,120,34.7,0.198,22,1 child,Young Adult,Obesity
+0,7,102,74,40,105,37.2,0.204,45,2+ children,Adult,Extreme Obesity
+0,3,123,100,35,240,57.3,0.88,22,2+ children,Young Adult,Extreme Obesity
+0,6,154,78,41,140,46.1,0.571,27,2+ children,Young Adult,Extreme Obesity
+0,5,128,80,0,0,34.6,0.144,45,2+ children,Adult,Obesity
+1,9,171,110,24,240,45.4,0.721,54,2+ children,Adult,Extreme Obesity
+0,1,87,78,27,32,34.6,0.101,22,No child,Young Adult,Obesity
+0,2,108,52,26,63,32.5,0.318,22,1 child,Young Adult,Obesity
+1,3,132,80,0,0,34.4,0.402,44,2+ children,Adult,Obesity
+1,5,139,80,35,160,31.6,0.361,25,2+ children,Young Adult,Obesity
+0,1,79,60,42,48,43.5,0.678,23,No child,Young Adult,Extreme Obesity
+0,4,76,62,0,0,34.0,0.391,25,2+ children,Young Adult,Obesity
+1,13,104,72,0,0,31.2,0.465,38,2+ children,Young Adult,Obesity
+0,7,124,70,33,215,25.5,0.161,37,2+ children,Young Adult,Overweight
+0,0,124,56,13,105,21.8,0.452,21,No child,Young Adult,Normal
+1,3,107,62,13,48,22.9,0.678,23,2+ children,Young Adult,Normal
+0,5,105,72,29,325,36.9,0.159,28,2+ children,Young Adult,Extreme Obesity
+0,2,121,70,32,95,39.1,0.886,23,1 child,Young Adult,Extreme Obesity
+0,7,136,90,0,0,29.9,0.21,50,2+ children,Adult,Overweight
+0,10,133,68,0,0,27.0,0.245,36,2+ children,Young Adult,Overweight
+0,2,141,58,34,128,25.4,0.699,24,1 child,Young Adult,Overweight
+0,8,126,74,38,75,25.9,0.162,39,2+ children,Young Adult,Overweight
+1,14,175,62,30,0,33.6,0.212,38,2+ children,Young Adult,Obesity
+0,5,99,74,27,0,29.0,0.203,32,2+ children,Young Adult,Overweight
+1,2,134,70,0,0,28.9,0.542,23,1 child,Young Adult,Overweight
+0,4,132,86,31,0,28.0,0.419,63,2+ children,Old,Overweight
+0,13,145,82,19,110,22.2,0.245,57,2+ children,Adult,Normal
+0,6,80,80,36,0,39.8,0.177,28,2+ children,Young Adult,Extreme Obesity
+0,2,68,62,13,15,20.1,0.257,23,1 child,Young Adult,Normal
+0,2,89,90,30,0,33.5,0.292,42,1 child,Adult,Obesity
+0,0,84,82,31,125,38.2,0.233,23,No child,Young Adult,Extreme Obesity
+1,3,130,78,23,79,28.4,0.323,34,2+ children,Young Adult,Overweight
+0,3,99,54,19,86,25.6,0.154,24,2+ children,Young Adult,Overweight
+1,0,180,78,63,14,59.4,2.42,25,No child,Young Adult,Extreme Obesity
+0,4,99,76,15,51,23.2,0.223,21,2+ children,Young Adult,Normal
+1,0,131,66,40,0,34.3,0.196,22,No child,Young Adult,Obesity
+0,3,142,80,15,0,32.4,0.2,63,2+ children,Old,Obesity
+0,2,106,56,27,165,29.0,0.426,22,1 child,Young Adult,Overweight
+1,4,115,72,0,0,28.9,0.376,46,2+ children,Adult,Overweight
+0,8,65,72,23,0,32.0,0.6,42,2+ children,Adult,Obesity
+1,3,182,74,0,0,30.5,0.345,29,2+ children,Young Adult,Obesity
+1,4,171,72,0,0,43.6,0.479,26,2+ children,Young Adult,Extreme Obesity
+1,1,122,64,32,156,35.1,0.692,30,No child,Young Adult,Extreme Obesity
+1,5,158,84,41,210,39.4,0.395,29,2+ children,Young Adult,Extreme Obesity
+1,2,128,78,37,182,43.3,1.224,31,1 child,Young Adult,Extreme Obesity
+0,2,88,74,19,53,29.0,0.229,22,1 child,Young Adult,Overweight
+0,0,165,90,33,680,52.3,0.427,23,No child,Young Adult,Extreme Obesity
+0,4,110,76,20,100,28.4,0.118,27,2+ children,Young Adult,Overweight
+0,1,87,68,34,77,37.6,0.401,24,No child,Young Adult,Extreme Obesity
+0,2,56,56,28,45,24.2,0.332,22,1 child,Young Adult,Normal
+0,4,110,92,0,0,37.6,0.191,30,2+ children,Young Adult,Extreme Obesity
+1,0,135,68,42,250,42.3,0.365,24,No child,Young Adult,Extreme Obesity
+0,2,157,74,35,440,39.4,0.134,30,1 child,Young Adult,Extreme Obesity
+0,6,111,64,39,0,34.2,0.26,24,2+ children,Young Adult,Obesity
+0,6,103,72,32,190,37.7,0.324,55,2+ children,Adult,Extreme Obesity
+1,7,196,90,0,0,39.8,0.451,41,2+ children,Adult,Extreme Obesity
+0,1,118,58,36,94,33.3,0.261,23,No child,Young Adult,Obesity
+0,0,67,76,0,0,45.3,0.194,46,No child,Adult,Extreme Obesity
+0,4,83,86,19,0,29.3,0.317,34,2+ children,Young Adult,Overweight
+0,1,97,64,19,82,18.2,0.299,21,No child,Young Adult,Low
+1,5,168,64,0,0,32.9,0.135,41,2+ children,Adult,Obesity
+0,1,131,64,14,415,23.7,0.389,21,No child,Young Adult,Normal
+0,1,146,56,0,0,29.7,0.564,29,No child,Young Adult,Overweight
+0,3,78,70,0,0,32.5,0.27,39,2+ children,Young Adult,Obesity
+0,2,83,65,28,66,36.8,0.629,24,1 child,Young Adult,Extreme Obesity
+1,6,134,70,23,130,35.4,0.542,29,2+ children,Young Adult,Extreme Obesity
+1,0,180,66,39,0,42.0,1.893,25,No child,Young Adult,Extreme Obesity
+1,0,138,60,35,167,34.6,0.534,21,No child,Young Adult,Obesity
+1,0,137,40,35,168,43.1,2.288,33,No child,Young Adult,Extreme Obesity
+0,4,118,70,0,0,44.5,0.904,26,2+ children,Young Adult,Extreme Obesity
+0,3,116,74,15,105,26.3,0.107,24,2+ children,Young Adult,Overweight
+1,3,173,84,33,474,35.7,0.258,22,2+ children,Young Adult,Extreme Obesity
+1,4,158,78,0,0,32.9,0.803,31,2+ children,Young Adult,Obesity
+0,3,84,68,30,106,31.9,0.591,25,2+ children,Young Adult,Obesity
+1,3,173,78,39,185,33.8,0.97,31,2+ children,Young Adult,Obesity
+1,3,162,52,38,0,37.2,0.652,24,2+ children,Young Adult,Extreme Obesity
+1,1,113,64,35,0,33.6,0.543,21,No child,Young Adult,Obesity
+0,2,112,66,22,0,25.0,0.307,24,1 child,Young Adult,Normal
+1,4,125,80,0,0,32.3,0.536,27,2+ children,Young Adult,Obesity
+1,3,78,50,32,88,31.0,0.248,26,2+ children,Young Adult,Obesity
+1,5,187,76,27,207,43.6,1.034,53,2+ children,Adult,Extreme Obesity
+0,3,122,78,0,0,23.0,0.254,40,2+ children,Young Adult,Normal
+0,4,129,86,20,270,35.1,0.231,23,2+ children,Young Adult,Extreme Obesity
+0,3,158,64,13,387,31.2,0.295,24,2+ children,Young Adult,Obesity
