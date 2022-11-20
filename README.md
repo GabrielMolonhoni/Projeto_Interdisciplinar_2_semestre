@@ -39,7 +39,7 @@ O trabalho pode ser visto no AWS Lab do Gabriel.
  Os dados para treinamentos são baixados do S3, com isso é feito uma limpeza e tratamento destes dados para realizar o evaluation de diversos modelos de classificação. Após a escolha do melhor modelo e feito um fine tuning para tentar melhorar ainda mais a acurácia do modelo. Com isto, é criado o modelo no Sagemaker e treinado novamente. Com o modelo treinado é feito o deploy do modelo no Endpoint. Com o modelo no endpoint, por fim é feito a validação com os dados de teste.
  ## Infraestrutura
  
- 
+ ![title](Notebook_configuration.JPG)
  
  ## 2. Resultados
  O modelo final foi uma SVM com kernel RBF onde obteve acurácia de 80% no dataset de treinamento.
