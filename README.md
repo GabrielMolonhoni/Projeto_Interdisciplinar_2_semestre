@@ -41,5 +41,7 @@ O trabalho pode ser visto no AWS Lab do Gabriel.
  
  ![title](Notebook_Settings.JPG)
  
+ ![title](Notebook_permissions.JPG)
+ 
  ## 2. Resultados
  O modelo final foi uma SVM com kernel RBF onde obteve acurácia de 80% no dataset de treinamento.
